@@ -10,6 +10,8 @@ RUN apk update \
 COPY . /geemusic
 WORKDIR /geemusic
 
+RUN pip3 install pip==9.0.3
+RUN pip3 install --no-cache-dir lambda-packages==0.19.0
 RUN pip3 install -r requirements.txt \
  && gem install foreman
 
