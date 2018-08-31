@@ -8,9 +8,9 @@ play_album_text: "Hier ist {{ album }} von {{ artist }}."
 play_song_text: "Hier ist {{ song }} von {{ artist }}"
 
 # selection.py
-login_text: "Willkommen bei GeeMusic. Frage mich nach einem Album oder starte eine Playlist."
+login_text: "Willkommen bei Google Music. Frage mich nach einem Album oder starte eine Playlist."
 login_prompt: "Sag zum Beispiel, spiele Musik von A Tribe Called Quest."
-login_title: "Willkommen bei GeeMusic!"
+login_title: "Willkommen bei Google Music!"
 login_content: "Frag mich nach einem Lied."
 help_text: "Hier sind einige Dinge, die du sagen kannst: \
             Spiele Lieder von Radiohead, \
